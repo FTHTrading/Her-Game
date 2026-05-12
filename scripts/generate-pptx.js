@@ -135,7 +135,7 @@ async function generate() {
     s.addNotes(notes)
   })
 
-  const outFile = 'HER-GAME-Presentation-FINAL-CORRECTED.pptx'
+  const outFile = 'HER-GAME-Presentation-KaciBurns-FINAL-TEACHER-READY.pptx'
   await pptx.writeFile({ fileName: outFile })
   const stat = fs.statSync(outFile)
   console.log('SAVED:', outFile, '| Size:', (stat.size / 1048576).toFixed(1) + 'MB')

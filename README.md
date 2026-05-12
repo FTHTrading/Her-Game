@@ -1,36 +1,57 @@
 <div align="center">
 
-# 🏆 HER GAME
-### Precision Athlete Pendant Collection
-#### 7th Grade Marketing Project — by **Kaci Burns**
+<img src="https://img.shields.io/badge/HER%20GAME-Precision%20Athlete%20Pendants-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="HER GAME" height="36"/>
 
-![Next.js](https://img.shields.io/badge/Next.js-16.2.6-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=for-the-badge&logo=tailwindcss)
-![School Project](https://img.shields.io/badge/Grade-7th-gold?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+<br/><br/>
 
-> **HER GAME** is a fictional sports pendant collection for female athletes,  
-> built as a full-stack marketing project covering all 7 Functions of Marketing.
+# HER GAME — Precision Athlete Pendant Collection
+
+#### 7th Grade Marketing Project &nbsp;|&nbsp; by **Kaci Burns** &nbsp;|&nbsp; 2026
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-16.2.6-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![pptxgenjs](https://img.shields.io/badge/pptxgenjs-4.0-FF6B35?style=for-the-badge&logoColor=white)
+
+<br/>
+
+![Grade](https://img.shields.io/badge/Grade-7th-C9A84C?style=flat-square&labelColor=0A0A0A)
+![Slides](https://img.shields.io/badge/Slides-11-C9A84C?style=flat-square&labelColor=0A0A0A)
+![Functions](https://img.shields.io/badge/Marketing%20Functions-7%2F7-brightgreen?style=flat-square&labelColor=0A0A0A)
+![Checklist](https://img.shields.io/badge/Teacher%20Checklist-20%2F20%20PASS-brightgreen?style=flat-square&labelColor=0A0A0A)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square&labelColor=0A0A0A)
+
+<br/>
+
+> **HER GAME** is a full-stack marketing project demonstrating all 7 Functions of Marketing  
+> through a fictional sports pendant collection for female athletes.  
+> Built with Next.js, TypeScript, and Tailwind CSS — with a downloadable PowerPoint included.
+
+<br/>
+
+[View Repo](https://github.com/FTHTrading/Her-Game) &nbsp;·&nbsp; [Download PPTX](https://github.com/FTHTrading/Her-Game/raw/main/HER-GAME-Presentation-FINAL-CORRECTED.pptx) &nbsp;·&nbsp; [Teacher Checklist](./docs/TEACHER_REQUIREMENTS_CHECKLIST_FINAL.md)
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-| # | Section | Description |
-|---|---------|-------------|
-| 1 | [Project Overview](#-project-overview) | What HER GAME is and why it was built |
-| 2 | [Live Pages](#-live-pages) | All website routes with descriptions |
-| 3 | [Presentation Slides](#-presentation-slides) | 11-slide deck summary |
-| 4 | [Tech Stack](#-tech-stack) | Frameworks, tools, and libraries |
-| 5 | [Project Structure](#-project-structure) | Folder and file layout |
-| 6 | [Quick Start](#-quick-start) | How to run locally |
-| 7 | [Teacher Checklist](#-teacher-checklist) | All requirements verified |
-| 8 | [Image Gallery](#-image-gallery) | Photos used in the project |
-| 9 | [Disclaimer](#-disclaimer) | School project notice |
+| # | Section |
+|---|---------|
+| 1 | [Project Overview](#project-overview) |
+| 2 | [Live Pages](#live-pages) |
+| 3 | [Presentation Slides](#presentation-slides) |
+| 4 | [7 Functions of Marketing](#7-functions-of-marketing) |
+| 5 | [Tech Stack](#tech-stack) |
+| 6 | [Project Structure](#project-structure) |
+| 7 | [Quick Start](#quick-start) |
+| 8 | [Teacher Checklist](#teacher-checklist) |
+| 9 | [Image Gallery](#image-gallery) |
+| 10 | [Disclaimer](#disclaimer) |
 
 ---
 
